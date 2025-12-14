@@ -1,0 +1,544 @@
+{
+  "meta_info": {
+    "app_name": "HSC English Prep",
+    "version": "Final_Full_v1",
+    "total_items": 352,
+    "instruction": "All items included, Grouped by similarity, Custom IDs"
+  },
+  "series": {
+    "A": {
+      "title": "A Series",
+      "items": [
+        { "id": 101, "phrase": "Abide by", "bangla_meaning": "মেনে চলা", "example_en": "We must abide by the rules.", "example_bn": "আমাদের অবশ্যই নিয়ম মেনে চলতে হবে।" },
+        { "id": 102, "phrase": "Abide with", "bangla_meaning": "কারো সাথে থাকা", "example_en": "Please abide with me.", "example_bn": "দয়া করে আমার সাথে থাকো।" },
+        { "id": 103, "phrase": "Abide in", "bangla_meaning": "বাস করা", "example_en": "He abides in London.", "example_bn": "সে লন্ডনে বাস করে।" },
+        { "id": 104, "phrase": "Abhorrence of", "bangla_meaning": "ঘৃণা", "example_en": "He has an abhorrence of war.", "example_bn": "যুদ্ধের প্রতি তার ঘৃণা আছে।" },
+        { "id": 105, "phrase": "Abhorrent to", "bangla_meaning": "ঘৃণিত", "example_en": "Corruption is abhorrent to the honest.", "example_bn": "দুর্নীতি সৎ মানুষের কাছে ঘৃণিত।" },
+        { "id": 106, "phrase": "Abound in", "bangla_meaning": "প্রচুর পরিমাণে থাকা", "example_en": "The river abounds in fish.", "example_bn": "নদীটিতে প্রচুর মাছ আছে।" },
+        { "id": 107, "phrase": "Abound with", "bangla_meaning": "পূর্ণ থাকা", "example_en": "The garden abounds with flowers.", "example_bn": "বাগানটি ফুলে পরিপূর্ণ।" },
+        { "id": 108, "phrase": "Absent from", "bangla_meaning": "অনুপস্থিত", "example_en": "He was absent from the meeting.", "example_bn": "সে মিটিংয়ে অনুপস্থিত ছিল।" },
+        { "id": 109, "phrase": "Absorbed in", "bangla_meaning": "নিমগ্ন", "example_en": "She is absorbed in reading.", "example_bn": "সে পড়ায় নিমগ্ন।" },
+        { "id": 110, "phrase": "Abstain from", "bangla_meaning": "বিরত থাকা", "example_en": "Abstain from smoking.", "example_bn": "ধূমপান থেকে বিরত থাকো।" },
+        { "id": 111, "phrase": "Acceptable to", "bangla_meaning": "গ্রহণযোগ্য", "example_en": "The offer is acceptable to me.", "example_bn": "প্রস্তাবটি আমার কাছে গ্রহণযোগ্য।" },
+        { "id": 112, "phrase": "Acquit of", "bangla_meaning": "খালাস দেওয়া", "example_en": "He was acquitted of the charge.", "example_bn": "তাকে অভিযোগ থেকে খালাস দেওয়া হলো।" },
+        { "id": 113, "phrase": "Adapt to", "bangla_meaning": "মানিয়ে নেওয়া", "example_en": "Adapt yourself to the new situation.", "example_bn": "নতুন পরিস্থিতির সাথে নিজেকে মানিয়ে নাও।" },
+        { "id": 114, "phrase": "Adapt for", "bangla_meaning": "উপযোগী করা", "example_en": "This book is adapted for kids.", "example_bn": "বইটি শিশুদের জন্য উপযোগী করা হয়েছে।" },
+        { "id": 115, "phrase": "Add to", "bangla_meaning": "যোগ করা / বাড়ানো", "example_en": "This adds to my trouble.", "example_bn": "এটি আমার সমস্যা বাড়িয়ে দেয়।" },
+        { "id": 116, "phrase": "Addicted to", "bangla_meaning": "আসক্ত (খারাপ অর্থে)", "example_en": "He is addicted to gambling.", "example_bn": "সে জুয়ায় আসক্ত।" },
+        { "id": 117, "phrase": "Adept in", "bangla_meaning": "দক্ষ", "example_en": "She is adept in painting.", "example_bn": "সে আঁকাআঁকিতে দক্ষ।" },
+        { "id": 118, "phrase": "Adequate to/for", "bangla_meaning": "পর্যাপ্ত / উপযুক্ত", "example_en": "The water is adequate for us.", "example_bn": "পানি আমাদের জন্য পর্যাপ্ত।" },
+        { "id": 119, "phrase": "Adhere to", "bangla_meaning": "লেগে থাকা", "example_en": "Adhere to your principles.", "example_bn": "তোমার নীতিতে অটল থাকো।" },
+        { "id": 120, "phrase": "Adjacent to", "bangla_meaning": "সংলগ্ন / কাছে", "example_en": "The school is adjacent to the park.", "example_bn": "স্কুলটি পার্কের সাথে লাগোয়া।" },
+        { "id": 121, "phrase": "Admit to", "bangla_meaning": "ভর্তি হওয়া / স্বীকার করা", "example_en": "He was admitted to the hospital.", "example_bn": "তাকে হাসপাতালে ভর্তি করা হলো।" },
+        { "id": 122, "phrase": "Admit of", "bangla_meaning": "সুযোগ থাকা", "example_en": "Your conduct admits of no excuse.", "example_bn": "তোমার আচরণের কোনো কৈফিয়ত নেই।" },
+        { "id": 123, "phrase": "Adorn with", "bangla_meaning": "সজ্জিত করা", "example_en": "The wall was adorned with pictures.", "example_bn": "দেয়ালটি ছবিতে সাজানো ছিল।" },
+        { "id": 124, "phrase": "Affection for", "bangla_meaning": "স্নেহ", "example_en": "I have affection for him.", "example_bn": "তার প্রতি আমার স্নেহ আছে।" },
+        { "id": 125, "phrase": "Affectionate to", "bangla_meaning": "স্নেহশীল", "example_en": "He is affectionate to the poor.", "example_bn": "সে গরিবদের প্রতি স্নেহশীল।" },
+        { "id": 126, "phrase": "Afraid of", "bangla_meaning": "ভীত", "example_en": "Don't be afraid of the dog.", "example_bn": "কুকুরটিকে ভয় পেয়ো না।" },
+        { "id": 127, "phrase": "Agree with", "bangla_meaning": "একমত হওয়া (ব্যক্তি)", "example_en": "I agree with you.", "example_bn": "আমি তোমার সাথে একমত।" },
+        { "id": 128, "phrase": "Agree to", "bangla_meaning": "রাজি হওয়া (প্রস্তাব)", "example_en": "He agreed to my plan.", "example_bn": "সে আমার পরিকল্পনায় রাজি হলো।" },
+        { "id": 129, "phrase": "Agree on", "bangla_meaning": "একমত হওয়া (বিষয়)", "example_en": "We agreed on this point.", "example_bn": "আমরা এই বিষয়ে একমত হলাম।" },
+        { "id": 130, "phrase": "Aim at", "bangla_meaning": "লক্ষ্য করা", "example_en": "He aimed at the bird.", "example_bn": "সে পাখিটির দিকে লক্ষ্য স্থির করল।" },
+        { "id": 131, "phrase": "Akin to", "bangla_meaning": "সমজাতীয়", "example_en": "Pity is akin to love.", "example_bn": "করুণা ভালোবাসারই মতো।" },
+        { "id": 132, "phrase": "Alarmed at", "bangla_meaning": "আতঙ্কিত", "example_en": "We were alarmed at the news.", "example_bn": "আমরা খবরে আতঙ্কিত হলাম।" },
+        { "id": 133, "phrase": "Angry with", "bangla_meaning": "রাগান্বিত (ব্যক্তি)", "example_en": "He is angry with me.", "example_bn": "সে আমার ওপর রেগে আছে।" },
+        { "id": 134, "phrase": "Angry at/for", "bangla_meaning": "রাগান্বিত (বিষয়)", "example_en": "He was angry at his failure.", "example_bn": "সে তার ব্যর্থতায় রেগে গেল।" },
+        { "id": 135, "phrase": "Annoyed with", "bangla_meaning": "বিরক্ত (ব্যক্তি)", "example_en": "Don't be annoyed with him.", "example_bn": "তার ওপর বিরক্ত হয়ো না।" },
+        { "id": 136, "phrase": "Annoyed at", "bangla_meaning": "বিরক্ত (আচরণ)", "example_en": "I was annoyed at his behavior.", "example_bn": "আমি তার আচরণে বিরক্ত হলাম।" },
+        { "id": 137, "phrase": "Answer for", "bangla_meaning": "দায়ী থাকা", "example_en": "You must answer for your deeds.", "example_bn": "তোমার কাজের জন্য তোমাকে জবাবদিহি করতে হবে।" },
+        { "id": 138, "phrase": "Answerable to", "bangla_meaning": "জবাবদিহি করা", "example_en": "I am answerable to my boss.", "example_bn": "আমি আমার বসের কাছে দায়বদ্ধ।" },
+        { "id": 139, "phrase": "Antipathy to", "bangla_meaning": "বিদ্বেষ", "example_en": "He has antipathy to smoking.", "example_bn": "ধূমপানের প্রতি তার বিদ্বেষ আছে।" },
+        { "id": 140, "phrase": "Anxious about", "bangla_meaning": "উদ্বিগ্ন", "example_en": "She is anxious about the result.", "example_bn": "সে ফলাফল নিয়ে উদ্বিগ্ন।" },
+        { "id": 141, "phrase": "Anxious for", "bangla_meaning": "আগ্রহী", "example_en": "I am anxious for the prize.", "example_bn": "আমি পুরস্কারটির জন্য আগ্রহী।" },
+        { "id": 142, "phrase": "Apart from", "bangla_meaning": "ছাড়া / ব্যতীত", "example_en": "Apart from this, I have nothing.", "example_bn": "এটা ছাড়া আমার আর কিছু নেই।" },
+        { "id": 143, "phrase": "Apathy towards", "bangla_meaning": "অনীহা", "example_en": "He has apathy towards studies.", "example_bn": "পড়াশোনায় তার অনীহা।" },
+        { "id": 144, "phrase": "Apologize to", "bangla_meaning": "ক্ষমা চাওয়া", "example_en": "Apologize to him immediately.", "example_bn": "অবিলম্বে তার কাছে ক্ষমা চাও।" },
+        { "id": 145, "phrase": "Appeal to", "bangla_meaning": "আবেদন করা", "example_en": "He appealed to the court.", "example_bn": "সে আদালতে আপিল করল।" },
+        { "id": 146, "phrase": "Appear at", "bangla_meaning": "হাজির হওয়া (পরীক্ষা/স্থান)", "example_en": "He appeared at the exam.", "example_bn": "সে পরীক্ষায় অংশগ্রহণ করল।" },
+        { "id": 147, "phrase": "Appetite for", "bangla_meaning": "ক্ষুধা / ইচ্ছা", "example_en": "He has no appetite for food.", "example_bn": "খাবারে তার কোনো রুচি নেই।" },
+        { "id": 148, "phrase": "Apply for", "bangla_meaning": "আবেদন করা (পদ)", "example_en": "I applied for the post.", "example_bn": "আমি পদটির জন্য আবেদন করলাম।" },
+        { "id": 149, "phrase": "Apply to", "bangla_meaning": "আবেদন করা (ব্যক্তি/প্রতিষ্ঠান)", "example_en": "Apply to the manager.", "example_bn": "ম্যানেজারের কাছে আবেদন করো।" },
+        { "id": 150, "phrase": "Appoint to", "bangla_meaning": "নিয়োগ দেওয়া", "example_en": "He was appointed to the post.", "example_bn": "তাকে পদটিতে নিয়োগ দেওয়া হলো।" },
+        { "id": 151, "phrase": "Appointment with", "bangla_meaning": "সাক্ষাৎসূচি", "example_en": "I have an appointment with him.", "example_bn": "তার সাথে আমার দেখা করার কথা আছে।" },
+        { "id": 152, "phrase": "Appropriate to", "bangla_meaning": "উপযুক্ত", "example_en": "The music is appropriate to the mood.", "example_bn": "সঙ্গীতটি মেজাজের সাথে মানানসই।" },
+        { "id": 153, "phrase": "Aptitude for", "bangla_meaning": "স্বাভাবিক দক্ষতা", "example_en": "He has an aptitude for math.", "example_bn": "অংকে তার স্বাভাবিক দক্ষতা আছে।" },
+        { "id": 154, "phrase": "Argue with", "bangla_meaning": "তর্ক করা (ব্যক্তি)", "example_en": "Don't argue with me.", "example_bn": "আমার সাথে তর্ক করো না।" },
+        { "id": 155, "phrase": "Argue for/against", "bangla_meaning": "পক্ষে/বিপক্ষে যুক্তি দেওয়া", "example_en": "He argued against the motion.", "example_bn": "সে প্রস্তাবের বিপক্ষে যুক্তি দিল।" },
+        { "id": 156, "phrase": "Arrange for", "bangla_meaning": "আয়োজন করা", "example_en": "Arrange for a car.", "example_bn": "একটি গাড়ির ব্যবস্থা করো।" },
+        { "id": 157, "phrase": "Arrive at", "bangla_meaning": "পৌঁছানো", "example_en": "We arrived at the station.", "example_bn": "আমরা স্টেশনে পৌঁছালাম।" },
+        { "id": 158, "phrase": "Ascend to", "bangla_meaning": "আরোহণ করা", "example_en": "He ascended to the throne.", "example_bn": "সে সিংহাসনে আরোহণ করল।" },
+        { "id": 159, "phrase": "Ashamed of", "bangla_meaning": "লজ্জিত", "example_en": "Are you not ashamed of your conduct?", "example_bn": "তুমি কি তোমার আচরণে লজ্জিত নও?" },
+        { "id": 160, "phrase": "Ask for", "bangla_meaning": "চাওয়া", "example_en": "He asked for money.", "example_bn": "সে টাকা চাইল।" },
+        { "id": 161, "phrase": "Assent to", "bangla_meaning": "সম্মতি দেওয়া", "example_en": "I cannot assent to your plan.", "example_bn": "আমি তোমার পরিকল্পনায় সম্মতি দিতে পারি না।" },
+        { "id": 162, "phrase": "Associate with", "bangla_meaning": "মেশা", "example_en": "Do not associate with bad boys.", "example_bn": "বাজে ছেলেদের সাথে মিশো না।" },
+        { "id": 163, "phrase": "Assure of", "bangla_meaning": "নিশ্চিত করা", "example_en": "I assure you of my help.", "example_bn": "আমি তোমাকে আমার সাহায্যের নিশ্চয়তা দিচ্ছি।" },
+        { "id": 164, "phrase": "Astonished at", "bangla_meaning": "অবাক হওয়া", "example_en": "I was astonished at his courage.", "example_bn": "আমি তার সাহসে অবাক হলাম।" },
+        { "id": 165, "phrase": "Attacked by", "bangla_meaning": "আক্রান্ত (প্রাণী)", "example_en": "He was attacked by a tiger.", "example_bn": "সে বাঘের দ্বারা আক্রান্ত হলো।" },
+        { "id": 166, "phrase": "Attacked with", "bangla_meaning": "আক্রান্ত (অস্ত্র)", "example_en": "He was attacked with a stick.", "example_bn": "তাকে লাঠি দিয়ে আঘাত করা হলো।" },
+        { "id": 167, "phrase": "Attain to", "bangla_meaning": "লাভ করা", "example_en": "He attained to a high position.", "example_bn": "সে উচ্চ পদ লাভ করল।" },
+        { "id": 168, "phrase": "Attend to", "bangla_meaning": "মনোযোগ দেওয়া", "example_en": "Attend to your lessons.", "example_bn": "পাঠে মনোযোগ দাও।" },
+        { "id": 169, "phrase": "Attend on/upon", "bangla_meaning": "সেবা করা", "example_en": "She attends on her mother.", "example_bn": "সে তার মায়ের সেবা করে।" },
+        { "id": 170, "phrase": "Attention to", "bangla_meaning": "মনোযোগ", "example_en": "Pay attention to what I say.", "example_bn": "আমার কথায় মনোযোগ দাও।" },
+        { "id": 171, "phrase": "Attentive to", "bangla_meaning": "মনোযোগী", "example_en": "Be attentive to your studies.", "example_bn": "পড়াশোনায় মনোযোগী হও।" },
+        { "id": 172, "phrase": "Authority on", "bangla_meaning": "বিশেষজ্ঞ", "example_en": "He is an authority on English.", "example_bn": "তিনি ইংরেজিতে একজন বিশেষজ্ঞ।" },
+        { "id": 173, "phrase": "Authority over", "bangla_meaning": "কর্তৃত্ব", "example_en": "He has no authority over me.", "example_bn": "আমার ওপর তার কোনো কর্তৃত্ব নেই।" },
+        { "id": 174, "phrase": "Avail of", "bangla_meaning": "সুযোগ নেওয়া", "example_en": "Avail yourself of the chance.", "example_bn": "সুযোগটি কাজে লাগাও।" },
+        { "id": 175, "phrase": "Averse to", "bangla_meaning": "বিমুখ / অনিচ্ছুক", "example_en": "I am averse to flattery.", "example_bn": "আমি তোষামোদে বিমুখ।" },
+        { "id": 176, "phrase": "Aware of", "bangla_meaning": "সচেতন", "example_en": "He is aware of the fact.", "example_bn": "সে বিষয়টি সম্পর্কে সচেতন।" }
+      ]
+    },
+    "B": {
+      "title": "B Series",
+      "items": [
+        { "id": 201, "phrase": "Bad at", "bangla_meaning": "কাঁচা / অদক্ষ", "example_en": "He is bad at tennis.", "example_bn": "সে টেনিসে কাঁচা।" },
+        { "id": 202, "phrase": "Bar to", "bangla_meaning": "প্রতিবন্ধক", "example_en": "Poverty is not a bar to success.", "example_bn": "দারিদ্র্য সাফল্যের পথে বাধা নয়।" },
+        { "id": 203, "phrase": "Bare of", "bangla_meaning": "শূন্য", "example_en": "The field is bare of grass.", "example_bn": "মাঠটিতে কোনো ঘাস নেই।" },
+        { "id": 204, "phrase": "Bark at", "bangla_meaning": "ঘেউ ঘেউ করা", "example_en": "The dog barks at strangers.", "example_bn": "কুকুরটি অপরিচিতদের দেখে ঘেউ ঘেউ করে।" },
+        { "id": 205, "phrase": "Based on", "bangla_meaning": "ভিত্তি করে", "example_en": "The film is based on a novel.", "example_bn": "সিনেমাটি একটি উপন্যাসের ওপর ভিত্তি করে তৈরি।" },
+        { "id": 206, "phrase": "Bask in", "bangla_meaning": "পোহানো (রোদ)", "example_en": "He basked in the sun.", "example_bn": "সে রোদ পোহাল।" },
+        { "id": 207, "phrase": "Beg for", "bangla_meaning": "প্রার্থনা করা / ভিক্ষা করা", "example_en": "He begged for mercy.", "example_bn": "সে ক্ষমা প্রার্থনা করল।" },
+        { "id": 208, "phrase": "Behave towards", "bangla_meaning": "আচরণ করা", "example_en": "Behave well towards others.", "example_bn": "অন্যদের সাথে ভালো আচরণ করো।" },
+        { "id": 209, "phrase": "Belong to", "bangla_meaning": "অধিকারভুক্ত হওয়া", "example_en": "This book belongs to me.", "example_bn": "এই বইটি আমার।" },
+        { "id": 210, "phrase": "Beware of", "bangla_meaning": "সাবধান হওয়া", "example_en": "Beware of dogs.", "example_bn": "কুকুর থেকে সাবধান।" },
+        { "id": 211, "phrase": "Blind of", "bangla_meaning": "অন্ধ (চোখে)", "example_en": "He is blind of one eye.", "example_bn": "সে এক চোখে অন্ধ।" },
+        { "id": 212, "phrase": "Blind to", "bangla_meaning": "দোষের প্রতি অন্ধ", "example_en": "He is blind to his son's faults.", "example_bn": "সে তার ছেলের দোষ দেখেও দেখে না।" },
+        { "id": 213, "phrase": "Born of", "bangla_meaning": "জন্মগ্রহণ করা", "example_en": "He was born of a poor family.", "example_bn": "সে এক গরিব পরিবারে জন্মেছিল।" },
+        { "id": 214, "phrase": "Bound for", "bangla_meaning": "যাত্রাপথে", "example_en": "The ship is bound for London.", "example_bn": "জাহাজটি লন্ডনের উদ্দেশ্যে যাচ্ছে।" },
+        { "id": 215, "phrase": "Break into", "bangla_meaning": "জোর করে ঢুকা", "example_en": "The thief broke into the house.", "example_bn": "চোরটি জোর করে বাড়িতে ঢুকল।" },
+        { "id": 216, "phrase": "Burdened with", "bangla_meaning": "ভারাক্রান্ত", "example_en": "He is burdened with debts.", "example_bn": "সে ঋণের ভারে জর্জরিত।" },
+        { "id": 217, "phrase": "Burst into", "bangla_meaning": "ফেটে পড়া (কান্না)", "example_en": "She burst into tears.", "example_bn": "সে কান্নায় ভেঙে পড়ল।" },
+        { "id": 218, "phrase": "Burst out", "bangla_meaning": "ফেটে পড়া (হাসি)", "example_en": "He burst out laughing.", "example_bn": "সে হাসিতে ফেটে পড়ল।" },
+        { "id": 219, "phrase": "Busy with", "bangla_meaning": "ব্যস্ত", "example_en": "He is busy with his work.", "example_bn": "সে তার কাজে ব্যস্ত।" }
+      ]
+    },
+    "C": {
+      "title": "C Series",
+      "items": [
+        { "id": 301, "phrase": "Call for", "bangla_meaning": "চাওয়া / দাবি করা", "example_en": "The situation calls for immediate action.", "example_bn": "পরিস্থিতিটি তাৎক্ষণিক পদক্ষেপ দাবি করে।" },
+        { "id": 302, "phrase": "Call on", "bangla_meaning": "দেখা করা", "example_en": "I will call on you tomorrow.", "example_bn": "আমি কাল তোমার সাথে দেখা করব।" },
+        { "id": 303, "phrase": "Call in", "bangla_meaning": "ডেকে আনা", "example_en": "Call in a doctor.", "example_bn": "ডাক্তার ডাকো।" },
+        { "id": 304, "phrase": "Capable of", "bangla_meaning": "সক্ষম", "example_en": "He is capable of doing it.", "example_bn": "সে এটি করতে সক্ষম।" },
+        { "id": 305, "phrase": "Care for", "bangla_meaning": "যত্ন নেওয়া / পছন্দ করা", "example_en": "I don't care for meat.", "example_bn": "আমি মাংস পছন্দ করি না।" },
+        { "id": 306, "phrase": "Care of", "bangla_meaning": "যত্নে / মারফত", "example_en": "Write to me care of my father.", "example_bn": "আমার বাবার মারফত আমাকে লিখো।" },
+        { "id": 307, "phrase": "Careful of", "bangla_meaning": "সতর্ক", "example_en": "Be careful of your health.", "example_bn": "স্বাস্থ্যের প্রতি যত্নবান হও।" },
+        { "id": 308, "phrase": "Cast aside", "bangla_meaning": "বাতিল করা", "example_en": "He cast aside my advice.", "example_bn": "সে আমার উপদেশ উড়িয়ে দিল।" },
+        { "id": 309, "phrase": "Cause of", "bangla_meaning": "কারণ (ফলাফল)", "example_en": "What is the cause of your failure?", "example_bn": "তোমার ব্যর্থতার কারণ কী?" },
+        { "id": 310, "phrase": "Cause for", "bangla_meaning": "কারণ (ভবিষ্যৎ)", "example_en": "There is no cause for anxiety.", "example_bn": "দুশ্চিন্তার কোনো কারণ নেই।" },
+        { "id": 311, "phrase": "Certain of", "bangla_meaning": "নিশ্চিত", "example_en": "I am certain of success.", "example_bn": "আমি সাফল্যের ব্যাপারে নিশ্চিত।" },
+        { "id": 312, "phrase": "Charge with", "bangla_meaning": "অভিযুক্ত করা", "example_en": "He was charged with theft.", "example_bn": "সে চুরির দায়ে অভিযুক্ত হলো।" },
+        { "id": 313, "phrase": "Close to", "bangla_meaning": "কাছাকাছি", "example_en": "The school is close to our house.", "example_bn": "স্কুলটি আমাদের বাড়ির কাছে।" },
+        { "id": 314, "phrase": "Compensate for", "bangla_meaning": "ক্ষতিপূরণ দেওয়া", "example_en": "I will compensate for the loss.", "example_bn": "আমি ক্ষতির ক্ষতিপূরণ দেব।" },
+        { "id": 315, "phrase": "Compete with", "bangla_meaning": "প্রতিযোগিতা করা", "example_en": "I cannot compete with him.", "example_bn": "আমি তার সাথে পাল্লা দিতে পারি না।" },
+        { "id": 316, "phrase": "Complain to", "bangla_meaning": "নালিশ করা (কারো কাছে)", "example_en": "I complained to the teacher.", "example_bn": "আমি শিক্ষকের কাছে নালিশ করলাম।" },
+        { "id": 317, "phrase": "Complain about/against", "bangla_meaning": "নালিশ করা (কারো বিরুদ্ধে)", "example_en": "He complained against me.", "example_bn": "সে আমার বিরুদ্ধে নালিশ করল।" },
+        { "id": 318, "phrase": "Comply with", "bangla_meaning": "মেনে চলা", "example_en": "I shall comply with your request.", "example_bn": "আমি তোমার অনুরোধ রাখব।" },
+        { "id": 319, "phrase": "Composed of", "bangla_meaning": "গঠিত", "example_en": "Water is composed of hydrogen and oxygen.", "example_bn": "পানি হাইড্রোজেন ও অক্সিজেন দিয়ে গঠিত।" },
+        { "id": 320, "phrase": "Conceal from", "bangla_meaning": "গোপন করা", "example_en": "Do not conceal facts from me.", "example_bn": "আমার কাছে সত্য গোপন করো না।" },
+        { "id": 321, "phrase": "Concentrate on", "bangla_meaning": "মনোনিবেশ করা", "example_en": "Concentrate on your studies.", "example_bn": "পড়াশোনায় মনোযোগ দাও।" },
+        { "id": 322, "phrase": "Confident of", "bangla_meaning": "আস্থাশীল", "example_en": "I am confident of winning.", "example_bn": "আমি জেতার ব্যাপারে আশাবাদী।" },
+        { "id": 323, "phrase": "Congratulate on", "bangla_meaning": "অভিনন্দন জানানো", "example_en": "I congratulate you on your success.", "example_bn": "আমি তোমাকে তোমার সাফল্যে অভিনন্দন জানাই।" },
+        { "id": 324, "phrase": "Conscious of", "bangla_meaning": "সচেতন", "example_en": "He is conscious of his weakness.", "example_bn": "সে তার দুর্বলতা সম্পর্কে সচেতন।" },
+        { "id": 325, "phrase": "Consent to", "bangla_meaning": "সম্মতি দেওয়া", "example_en": "He consented to my proposal.", "example_bn": "সে আমার প্রস্তাবে সম্মতি দিল।" },
+        { "id": 326, "phrase": "Consist of", "bangla_meaning": "গঠিত হওয়া", "example_en": "The team consists of eleven players.", "example_bn": "দলটি এগারো জন খেলোয়াড় নিয়ে গঠিত।" },
+        { "id": 327, "phrase": "Consist in", "bangla_meaning": "নিহিত থাকা", "example_en": "Happiness consists in contentment.", "example_bn": "সন্তুষ্টিতেই সুখ নিহিত।" },
+        { "id": 328, "phrase": "Consult with", "bangla_meaning": "পরামর্শ করা", "example_en": "Consult with a doctor.", "example_bn": "ডাক্তারের সাথে পরামর্শ করো।" },
+        { "id": 329, "phrase": "Contrary to", "bangla_meaning": "বিপরীত", "example_en": "This is contrary to rules.", "example_bn": "এটি নিয়মের পরিপন্থী।" },
+        { "id": 330, "phrase": "Contribute to", "bangla_meaning": "অবদান রাখা / দান করা", "example_en": "He contributed to the fund.", "example_bn": "সে তহবিলে চাঁদা দিল।" },
+        { "id": 331, "phrase": "Control over", "bangla_meaning": "নিয়ন্ত্রণ", "example_en": "He has no control over his son.", "example_bn": "ছেলের ওপর তার কোনো নিয়ন্ত্রণ নেই।" },
+        { "id": 332, "phrase": "Cope with", "bangla_meaning": "পেরে ওঠা / সামলানো", "example_en": "I cannot cope with this situation.", "example_bn": "আমি এই পরিস্থিতি সামলাতে পারছি না।" },
+        { "id": 333, "phrase": "Count on", "bangla_meaning": "নির্ভর করা", "example_en": "You can count on my help.", "example_bn": "আমার সাহায্যের ওপর ভরসা করতে পারো।" },
+        { "id": 334, "phrase": "Cure for", "bangla_meaning": "প্রতিকার", "example_en": "There is no cure for this disease.", "example_bn": "এই রোগের কোনো প্রতিকার নেই।" },
+        { "id": 335, "phrase": "Cure of", "bangla_meaning": "আরোগ্য করা", "example_en": "He was cured of his illness.", "example_bn": "সে তার রোগ থেকে মুক্তি পেল।" }
+      ]
+    },
+    "D": {
+      "title": "D Series",
+      "items": [
+        { "id": 401, "phrase": "Deaf to", "bangla_meaning": "কর্ণপাত না করা", "example_en": "He is deaf to my advice.", "example_bn": "সে আমার উপদেশে কান দেয় না।" },
+        { "id": 402, "phrase": "Deal in", "bangla_meaning": "ব্যবসা করা", "example_en": "He deals in jute.", "example_bn": "সে পাটের ব্যবসা করে।" },
+        { "id": 403, "phrase": "Deal with", "bangla_meaning": "ব্যবহার করা / আলোচনা করা", "example_en": "He deals well with all.", "example_bn": "সে সবার সাথে ভালো ব্যবহার করে।" },
+        { "id": 404, "phrase": "Depend on/upon", "bangla_meaning": "নির্ভর করা", "example_en": "Success depends on hard work.", "example_bn": "সাফল্য কঠোর পরিশ্রমের ওপর নির্ভর করে।" },
+        { "id": 405, "phrase": "Deprive of", "bangla_meaning": "বঞ্চিত করা", "example_en": "He was deprived of his property.", "example_bn": "তাকে তার সম্পত্তি থেকে বঞ্চিত করা হলো।" },
+        { "id": 406, "phrase": "Desire for", "bangla_meaning": "আকাঙ্ক্ষা", "example_en": "He has no desire for fame.", "example_bn": "তার খ্যাতির কোনো লোভ নেই।" },
+        { "id": 407, "phrase": "Devote to", "bangla_meaning": "নিয়োগ করা / উৎসর্গ করা", "example_en": "He devoted himself to study.", "example_bn": "সে নিজেকে পড়াশোনায় সঁপে দিল।" },
+        { "id": 408, "phrase": "Die of", "bangla_meaning": "মারা যাওয়া (রোগ)", "example_en": "He died of cholera.", "example_bn": "সে কলেরায় মারা গেল।" },
+        { "id": 409, "phrase": "Die from", "bangla_meaning": "মারা যাওয়া (অন্য কারণ)", "example_en": "He died from overeating.", "example_bn": "সে অতিরিক্ত খেয়ে মারা গেল।" },
+        { "id": 410, "phrase": "Die for", "bangla_meaning": "আত্মত্যাগ করা", "example_en": "He died for his country.", "example_bn": "সে দেশের জন্য প্রাণ দিল।" },
+        { "id": 411, "phrase": "Die by", "bangla_meaning": "মারা যাওয়া (দুর্ঘটনা/বিষ)", "example_en": "He died by accident.", "example_bn": "সে দুর্ঘটনায় মারা গেল।" },
+        { "id": 412, "phrase": "Differ from", "bangla_meaning": "ভিন্ন হওয়া (বস্তু)", "example_en": "This pen differs from that.", "example_bn": "এই কলমটি ওটার থেকে আলাদা।" },
+        { "id": 413, "phrase": "Differ with", "bangla_meaning": "ভিন্নমত হওয়া (ব্যক্তি)", "example_en": "I differ with you.", "example_bn": "আমি তোমার সাথে একমত নই।" },
+        { "id": 414, "phrase": "Disgrace to", "bangla_meaning": "কলঙ্ক", "example_en": "He is a disgrace to his family.", "example_bn": "সে তার পরিবারের কলঙ্ক।" },
+        { "id": 415, "phrase": "Dispose of", "bangla_meaning": "মীমাংসা করা / বেচে দেওয়া", "example_en": "He disposed of his old car.", "example_bn": "সে তার পুরনো গাড়িটি বেচে দিল।" },
+        { "id": 416, "phrase": "Distinguish between", "bangla_meaning": "পার্থক্য করা", "example_en": "Distinguish between right and wrong.", "example_bn": "সঠিক ও ভুলের পার্থক্য করো।" },
+        { "id": 417, "phrase": "Divide into", "bangla_meaning": "ভাগ করা", "example_en": "Divide the apple into two halves.", "example_bn": "আপেলটি দুই ভাগে ভাগ করো।" },
+        { "id": 418, "phrase": "Due to", "bangla_meaning": "কারণে", "example_en": "His absence was due to illness.", "example_bn": "অসুস্থতার কারণে সে অনুপস্থিত ছিল।" },
+        { "id": 419, "phrase": "Dull at", "bangla_meaning": "কাঁচা", "example_en": "He is dull at math.", "example_bn": "সে অংকে কাঁচা।" },
+        { "id": 420, "phrase": "Duty to", "bangla_meaning": "কর্তব্য", "example_en": "Do your duty to your parents.", "example_bn": "বাবা-মায়ের প্রতি তোমার কর্তব্য পালন করো।" }
+      ]
+    },
+    "E": {
+      "title": "E Series",
+      "items": [
+        { "id": 501, "phrase": "Eager for", "bangla_meaning": "আগ্রহী", "example_en": "He is eager for the prize.", "example_bn": "সে পুরস্কারটির জন্য আগ্রহী।" },
+        { "id": 502, "phrase": "Eligible for", "bangla_meaning": "যোগ্য", "example_en": "He is eligible for the post.", "example_bn": "সে পদের জন্য যোগ্য।" },
+        { "id": 503, "phrase": "Envious of", "bangla_meaning": "ঈর্ষান্বিত", "example_en": "Do not be envious of others.", "example_bn": "অন্যদের প্রতি হিংসা করো না।" },
+        { "id": 504, "phrase": "Escape from", "bangla_meaning": "মুক্তি পাওয়া", "example_en": "He escaped from the jail.", "example_bn": "সে জেল থেকে পালিয়েছে।" },
+        { "id": 505, "phrase": "Essential to", "bangla_meaning": "অত্যাবশ্যক", "example_en": "Food is essential to life.", "example_bn": "খাদ্য জীবনের জন্য অত্যাবশ্যক।" },
+        { "id": 506, "phrase": "Excel in", "bangla_meaning": "দক্ষতা দেখানো", "example_en": "He excels in painting.", "example_bn": "সে আঁকাআঁকিতে ভালো।" },
+        { "id": 507, "phrase": "Excuse for", "bangla_meaning": "অজুহাত", "example_en": "There is no excuse for his conduct.", "example_bn": "তার আচরণের কোনো অজুহাত নেই।" },
+        { "id": 508, "phrase": "Exempt from", "bangla_meaning": "রেহাই দেওয়া", "example_en": "He was exempted from the fine.", "example_bn": "তাকে জরিমানা থেকে রেহাই দেওয়া হলো।" }
+      ]
+    },
+    "F": {
+      "title": "F Series",
+      "items": [
+        { "id": 601, "phrase": "Fail in", "bangla_meaning": "ব্যর্থ হওয়া", "example_en": "He failed in English.", "example_bn": "সে ইংরেজিতে ফেল করল।" },
+        { "id": 602, "phrase": "Faith in", "bangla_meaning": "বিশ্বাস", "example_en": "I have faith in God.", "example_bn": "ঈশ্বরে আমার বিশ্বাস আছে।" },
+        { "id": 603, "phrase": "Faithful to", "bangla_meaning": "বিশ্বস্ত", "example_en": "The dog is faithful to its master.", "example_bn": "কুকুরটি তার প্রভুর প্রতি বিশ্বস্ত।" },
+        { "id": 604, "phrase": "False to", "bangla_meaning": "অবিশ্বাসী", "example_en": "Don't be false to your friend.", "example_bn": "বন্ধুর সাথে বিশ্বাসঘাতকতা করো না।" },
+        { "id": 605, "phrase": "Famous for", "bangla_meaning": "বিখ্যাত", "example_en": "Rajshahi is famous for silk.", "example_bn": "রাজশাহী রেশমের জন্য বিখ্যাত।" },
+        { "id": 606, "phrase": "Fatal to", "bangla_meaning": "মারাত্মক", "example_en": "The mistake proved fatal to him.", "example_bn": "ভুলটি তার জন্য কাল হলো।" },
+        { "id": 607, "phrase": "Feed on", "bangla_meaning": "খেয়ে বাঁচা", "example_en": "The cow feeds on grass.", "example_bn": "গরু ঘাস খেয়ে বাঁচে।" },
+        { "id": 608, "phrase": "Feel for", "bangla_meaning": "অনুভব করা / মায়া হওয়া", "example_en": "I feel for the poor.", "example_bn": "গরিবদের জন্য আমার মায়া হয়।" },
+        { "id": 609, "phrase": "Fit for", "bangla_meaning": "যোগ্য", "example_en": "He is fit for the job.", "example_bn": "সে চাকরির জন্য উপযুক্ত।" },
+        { "id": 610, "phrase": "Fond of", "bangla_meaning": "প্রিয় / পছন্দ", "example_en": "I am fond of sweets.", "example_bn": "আমি মিষ্টি পছন্দ করি।" },
+        { "id": 611, "phrase": "Free from", "bangla_meaning": "মুক্ত", "example_en": "He is free from care.", "example_bn": "সে দুশ্চিন্তামুক্ত।" },
+        { "id": 612, "phrase": "Full of", "bangla_meaning": "পরিপূর্ণ", "example_en": "The glass is full of water.", "example_bn": "গ্লাসটি পানিতে পূর্ণ।" }
+      ]
+    },
+    "G": {
+      "title": "G Series",
+      "items": [
+        { "id": 701, "phrase": "Glad at", "bangla_meaning": "আনন্দিত", "example_en": "I am glad at your success.", "example_bn": "আমি তোমার সাফল্যে আনন্দিত।" },
+        { "id": 702, "phrase": "Glance at", "bangla_meaning": "তাকানো (এক নজর)", "example_en": "He glanced at me.", "example_bn": "সে আমার দিকে এক নজর তাকাল।" },
+        { "id": 703, "phrase": "Good at", "bangla_meaning": "দক্ষ", "example_en": "He is good at tennis.", "example_bn": "সে টেনিসে দক্ষ।" },
+        { "id": 704, "phrase": "Good for", "bangla_meaning": "উপকারী / যোগ্য", "example_en": "He is good for nothing.", "example_bn": "সে কোনো কাজের না।" },
+        { "id": 705, "phrase": "Grateful to", "bangla_meaning": "কৃতজ্ঞ", "example_en": "I am grateful to you.", "example_bn": "আমি তোমার প্রতি কৃতজ্ঞ।" },
+        { "id": 706, "phrase": "Greed for", "bangla_meaning": "লোভ", "example_en": "He has no greed for wealth.", "example_bn": "সম্পদের প্রতি তার লোভ নেই।" },
+        { "id": 707, "phrase": "Guilty of", "bangla_meaning": "দোষী", "example_en": "He is guilty of murder.", "example_bn": "সে খুনের দায়ে দোষী।" }
+      ]
+    },
+    "H": {
+      "title": "H Series",
+      "items": [
+        { "id": 801, "phrase": "Hanker after", "bangla_meaning": "লালায়িত হওয়া", "example_en": "Do not hanker after wealth.", "example_bn": "ধনের পেছনে ছুটো না।" },
+        { "id": 802, "phrase": "Hard of", "bangla_meaning": "কানে খাটো", "example_en": "He is hard of hearing.", "example_bn": "সে কানে কম শোনে।" },
+        { "id": 803, "phrase": "Heir to", "bangla_meaning": "উত্তরাধিকারী", "example_en": "He is heir to the estate.", "example_bn": "সে এই সম্পত্তির উত্তরাধিকারী।" },
+        { "id": 804, "phrase": "Hinge on/upon", "bangla_meaning": "নির্ভর করা", "example_en": "Everything hinges on his decision.", "example_bn": "সব কিছু তার সিদ্ধান্তের ওপর নির্ভর করছে।" },
+        { "id": 805, "phrase": "Hint at", "bangla_meaning": "ইঙ্গিত দেওয়া", "example_en": "He hinted at the truth.", "example_bn": "সে সত্যের দিকে ইঙ্গিত দিল।" },
+        { "id": 806, "phrase": "Hope for", "bangla_meaning": "আশা করা", "example_en": "Hope for the best.", "example_bn": "ভালো কিছুর আশা করো।" },
+        { "id": 807, "phrase": "Hunger for", "bangla_meaning": "তীব্র আকাঙ্ক্ষা", "example_en": "He has a hunger for knowledge.", "example_bn": "তার জ্ঞানের তৃষ্ণা আছে।" }
+      ]
+    },
+    "I": {
+      "title": "I Series",
+      "items": [
+        { "id": 901, "phrase": "Ignorant of", "bangla_meaning": "অজ্ঞ", "example_en": "He is ignorant of this fact.", "example_bn": "সে এই বিষয়ে অজ্ঞ।" },
+        { "id": 902, "phrase": "Ill with", "bangla_meaning": "অসুস্থ", "example_en": "He is ill with fever.", "example_bn": "সে জ্বরে ভুগছে।" },
+        { "id": 903, "phrase": "Impose on", "bangla_meaning": "চাপানো", "example_en": "Do not impose your views on me.", "example_bn": "তোমার মত আমার ওপর চাপিয়ে দিও না।" },
+        { "id": 904, "phrase": "Incapable of", "bangla_meaning": "অক্ষম", "example_en": "He is incapable of telling a lie.", "example_bn": "সে মিথ্যা বলতে অক্ষম।" },
+        { "id": 905, "phrase": "Inclined to", "bangla_meaning": "ঝোঁক থাকা", "example_en": "He is inclined to laziness.", "example_bn": "তার অলসতার দিকে ঝোঁক আছে।" },
+        { "id": 906, "phrase": "Indebted to", "bangla_meaning": "ঋণী", "example_en": "I am indebted to him for help.", "example_bn": "সাহায্যের জন্য আমি তার কাছে ঋণী।" },
+        { "id": 907, "phrase": "Indifferent to", "bangla_meaning": "উদাসীন", "example_en": "He is indifferent to praise or blame.", "example_bn": "সে প্রশংসা বা নিন্দায় উদাসীন।" },
+        { "id": 908, "phrase": "Indispensable to", "bangla_meaning": "অপরিহার্য", "example_en": "Air is indispensable to life.", "example_bn": "বাতাস জীবনের জন্য অপরিহার্য।" },
+        { "id": 909, "phrase": "Indulge in", "bangla_meaning": "আসক্ত হওয়া / প্রশ্রয় দেওয়া", "example_en": "Do not indulge in strong drinks.", "example_bn": "কড়া পানীয়তে আসক্ত হয়ো না।" },
+        { "id": 910, "phrase": "Inferior to", "bangla_meaning": "নিকৃষ্ট", "example_en": "This pen is inferior to that.", "example_bn": "এই কলমটি ওটার চেয়ে খারাপ।" },
+        { "id": 911, "phrase": "Informed of", "bangla_meaning": "জানানো", "example_en": "I have informed him of the news.", "example_bn": "আমি তাকে খবরটি জানিয়েছি।" },
+        { "id": 912, "phrase": "Innocent of", "bangla_meaning": "নির্দোষ", "example_en": "He is innocent of the charge.", "example_bn": "সে অভিযোগ থেকে নির্দোষ।" },
+        { "id": 913, "phrase": "Insist on", "bangla_meaning": "জেদ করা", "example_en": "He insisted on my going there.", "example_bn": "সে আমার সেখানে যাওয়ার ব্যাপারে জেদ ধরল।" },
+        { "id": 914, "phrase": "Interest in", "bangla_meaning": "আগ্রহ", "example_en": "He has no interest in music.", "example_bn": "গানে তার কোনো আগ্রহ নেই।" },
+        { "id": 915, "phrase": "Interfere in", "bangla_meaning": "হস্তক্ষেপ করা", "example_en": "Don't interfere in my affairs.", "example_bn": "আমার ব্যাপারে নাক গলিও না।" },
+        { "id": 916, "phrase": "Introduce to", "bangla_meaning": "পরিচয় করিয়ে দেওয়া", "example_en": "I introduced him to the class.", "example_bn": "আমি তাকে ক্লাসের সাথে পরিচয় করিয়ে দিলাম।" },
+        { "id": 917, "phrase": "Invite to", "bangla_meaning": "আমন্ত্রণ জানানো", "example_en": "He invited me to dinner.", "example_bn": "সে আমাকে ডিনারে দাওয়াত দিল।" },
+        { "id": 918, "phrase": "Involved in", "bangla_meaning": "জড়িত", "example_en": "He is involved in debt.", "example_bn": "সে ঋণে জর্জরিত।" }
+      ]
+    },
+    "J": {
+      "title": "J Series",
+      "items": [
+        { "id": 1001, "phrase": "Jealous of", "bangla_meaning": "ঈর্ষান্বিত", "example_en": "He is jealous of my fortune.", "example_bn": "সে আমার ভাগ্য দেখে হিংসা করে।" },
+        { "id": 1002, "phrase": "Jump at", "bangla_meaning": "লুফে নেওয়া (প্রস্তাব)", "example_en": "He jumped at the offer.", "example_bn": "সে প্রস্তাবটি লুফে নিল।" },
+        { "id": 1003, "phrase": "Jump to", "bangla_meaning": "সিদ্ধান্তে আসা", "example_en": "Don't jump to a conclusion.", "example_bn": "হুট করে কোনো সিদ্ধান্তে এসো না।" },
+        { "id": 1004, "phrase": "Junior to", "bangla_meaning": "ছোট (পদ/বয়স)", "example_en": "He is junior to me.", "example_bn": "সে আমার জুনিয়র।" }
+      ]
+    },
+    "K": {
+      "title": "K Series",
+      "items": [
+        { "id": 1101, "phrase": "Key to", "bangla_meaning": "চাবিকাঠি", "example_en": "Labor is the key to success.", "example_bn": "পরিশ্রমই সাফল্যের চাবিকাঠি।" },
+        { "id": 1102, "phrase": "Kind to", "bangla_meaning": "সদয়", "example_en": "Be kind to the poor.", "example_bn": "গরিবদের প্রতি সদয় হও।" },
+        { "id": 1103, "phrase": "Knock at", "bangla_meaning": "ধাক্কা দেওয়া / টোকা দেওয়া", "example_en": "Who knocks at the door?", "example_bn": "দরজায় কে কড়া নাড়ছে?" },
+        { "id": 1104, "phrase": "Known to", "bangla_meaning": "পরিচিত", "example_en": "He is known to me.", "example_bn": "সে আমার পরিচিত।" }
+      ]
+    },
+    "L": {
+      "title": "L Series",
+      "items": [
+        { "id": 1201, "phrase": "Lame of", "bangla_meaning": "খোঁড়া", "example_en": "He is lame of one leg.", "example_bn": "সে এক পায়ে খোঁড়া।" },
+        { "id": 1202, "phrase": "Laugh at", "bangla_meaning": "বিদ্রূপ করা", "example_en": "Don't laugh at the poor.", "example_bn": "গরিবদের দেখে হেসো না।" },
+        { "id": 1203, "phrase": "Lead to", "bangla_meaning": "পরিচালিত করা", "example_en": "Corruption leads to misery.", "example_bn": "দুর্নীতি দুর্দশা ডেকে আনে।" },
+        { "id": 1204, "phrase": "Lean against", "bangla_meaning": "হেলান দেওয়া", "example_en": "Do not lean against the wall.", "example_bn": "দেয়ালে হেলান দিও না।" },
+        { "id": 1205, "phrase": "Liable to", "bangla_meaning": "দায়ী", "example_en": "He is liable to fine.", "example_bn": "সে জরিমানার যোগ্য।" },
+        { "id": 1206, "phrase": "Liking for", "bangla_meaning": "পছন্দ", "example_en": "He has a liking for cricket.", "example_bn": "ক্রিকেটের প্রতি তার ভালোলাগা আছে।" },
+        { "id": 1207, "phrase": "Limit to", "bangla_meaning": "সীমা", "example_en": "There is a limit to my patience.", "example_bn": "আমার ধৈর্যের একটা সীমা আছে।" },
+        { "id": 1208, "phrase": "Listen to", "bangla_meaning": "শোনা", "example_en": "Listen to me.", "example_bn": "আমার কথা শোনো।" },
+        { "id": 1209, "phrase": "Live on", "bangla_meaning": "খেয়ে বাঁচা", "example_en": "The cow lives on grass.", "example_bn": "গরু ঘাস খেয়ে বাঁচে।" },
+        { "id": 1210, "phrase": "Long for", "bangla_meaning": "আকাঙ্ক্ষা করা", "example_en": "He longs for fame.", "example_bn": "সে খ্যাতির কাঙাল।" },
+        { "id": 1211, "phrase": "Look at", "bangla_meaning": "তাকানো", "example_en": "Look at the moon.", "example_bn": "চাঁদটির দিকে তাকাও।" },
+        { "id": 1212, "phrase": "Look after", "bangla_meaning": "দেখাশোনা করা", "example_en": "She looks after her parents.", "example_bn": "সে তার বাবা-মায়ের দেখাশোনা করে।" },
+        { "id": 1213, "phrase": "Look for", "bangla_meaning": "খোঁজা", "example_en": "What are you looking for?", "example_bn": "তুমি কী খুঁজছ?" },
+        { "id": 1214, "phrase": "Look into", "bangla_meaning": "তদন্ত করা", "example_en": "The police looked into the case.", "example_bn": "পুলিশ মামলাটি তদন্ত করল।" },
+        { "id": 1215, "phrase": "Loyal to", "bangla_meaning": "অনুগত", "example_en": "Be loyal to your country.", "example_bn": "দেশের প্রতি অনুগত হও।" }
+      ]
+    },
+    "M": {
+      "title": "M Series",
+      "items": [
+        { "id": 1301, "phrase": "Mad with", "bangla_meaning": "উন্মাদ (রাগে/দুঃখে)", "example_en": "He was mad with rage.", "example_bn": "সে রাগে উন্মাদ হয়ে গেল।" },
+        { "id": 1302, "phrase": "Made of", "bangla_meaning": "তৈরি (উপাদান দেখা যায়)", "example_en": "The ring is made of gold.", "example_bn": "আংটিটি সোনার তৈরি।" },
+        { "id": 1303, "phrase": "Made from", "bangla_meaning": "তৈরি (উপাদান পরিবর্তিত)", "example_en": "Paper is made from wood.", "example_bn": "কাঠ থেকে কাগজ হয়।" },
+        { "id": 1304, "phrase": "Make out", "bangla_meaning": "বুঝতে পারা", "example_en": "I cannot make out his meaning.", "example_bn": "আমি তার অর্থ বুঝতে পারছি না।" },
+        { "id": 1305, "phrase": "Married to", "bangla_meaning": "বিবাহিত", "example_en": "She was married to a rich man.", "example_bn": "এক ধনী লোকের সাথে তার বিয়ে হয়েছে।" },
+        { "id": 1306, "phrase": "Match for", "bangla_meaning": "সমকক্ষ", "example_en": "He is no match for me.", "example_bn": "সে আমার সমকক্ষ নয়।" },
+        { "id": 1307, "phrase": "Meet with", "bangla_meaning": "সাক্ষাৎ করা / ঘটা", "example_en": "He met with an accident.", "example_bn": "সে দুর্ঘটনার কবলে পড়ল।" },
+        { "id": 1308, "phrase": "Mix with", "bangla_meaning": "মেশা", "example_en": "Do not mix with bad company.", "example_bn": "বাজে সঙ্গের সাথে মিশো না।" },
+        { "id": 1309, "phrase": "Mourn for", "bangla_meaning": "শোক করা", "example_en": "We mourned for the dead.", "example_bn": "আমরা মৃতদের জন্য শোক করলাম।" }
+      ]
+    },
+    "N": {
+      "title": "N Series",
+      "items": [
+        { "id": 1401, "phrase": "Natural to", "bangla_meaning": "স্বাভাবিক", "example_en": "It is natural to him.", "example_bn": "এটা তার জন্য স্বাভাবিক।" },
+        { "id": 1402, "phrase": "Necessary to/for", "bangla_meaning": "প্রয়োজনীয়", "example_en": "Food is necessary for health.", "example_bn": "স্বাস্থ্যের জন্য খাদ্য প্রয়োজন।" },
+        { "id": 1403, "phrase": "Need of/for", "bangla_meaning": "প্রয়োজন", "example_en": "I am in need of money.", "example_bn": "আমার টাকার দরকার।" },
+        { "id": 1404, "phrase": "Neglectful of", "bangla_meaning": "অযত্নশীল", "example_en": "He is neglectful of his duty.", "example_bn": "সে তার কর্তব্যে অবহেলা করে।" },
+        { "id": 1405, "phrase": "Noted for", "bangla_meaning": "বিখ্যাত", "example_en": "He is noted for his learning.", "example_bn": "সে তার পাণ্ডিত্যের জন্য খ্যাত।" }
+      ]
+    },
+    "O": {
+      "title": "O Series",
+      "items": [
+        { "id": 1501, "phrase": "Obedient to", "bangla_meaning": "বাধ্য", "example_en": "Be obedient to your teachers.", "example_bn": "শিক্ষকদের বাধ্য থাকো।" },
+        { "id": 1502, "phrase": "Object to", "bangla_meaning": "আপত্তি করা", "example_en": "I object to his proposal.", "example_bn": "আমি তার প্রস্তাবে আপত্তি জানাচ্ছি।" },
+        { "id": 1503, "phrase": "Obliged to", "bangla_meaning": "বাধিত / ঋণী", "example_en": "I am obliged to you.", "example_bn": "আমি তোমার কাছে কৃতজ্ঞ।" },
+        { "id": 1504, "phrase": "Occupied with", "bangla_meaning": "ব্যস্ত", "example_en": "He is occupied with his work.", "example_bn": "সে তার কাজে মগ্ন।" },
+        { "id": 1505, "phrase": "Offended with", "bangla_meaning": "ক্ষুব্ধ (ব্যক্তি)", "example_en": "He is offended with me.", "example_bn": "সে আমার ওপর ক্ষুব্ধ।" },
+        { "id": 1506, "phrase": "Offended at", "bangla_meaning": "ক্ষুব্ধ (আচরণ)", "example_en": "I was offended at his words.", "example_bn": "আমি তার কথায় ক্ষুব্ধ হলাম।" },
+        { "id": 1507, "phrase": "Open to", "bangla_meaning": "উন্মুক্ত", "example_en": "The plan is open to objection.", "example_bn": "পরিকল্পনাটি আপত্তিসাপেক্ষ।" },
+        { "id": 1508, "phrase": "Opportunity for", "bangla_meaning": "সুযোগ", "example_en": "I have no opportunity for doing it.", "example_bn": "এটা করার আমার সুযোগ নেই।" },
+        { "id": 1509, "phrase": "Opposed to", "bangla_meaning": "বিরোধী", "example_en": "He is opposed to this.", "example_bn": "সে এর বিরোধী।" },
+        { "id": 1510, "phrase": "Opposite to", "bangla_meaning": "উল্টো দিকে", "example_en": "His house is opposite to ours.", "example_bn": "তার বাড়ি আমাদের বাড়ির উল্টো দিকে।" },
+        { "id": 1511, "phrase": "Overcome with", "bangla_meaning": "অভিভূত", "example_en": "He was overcome with grief.", "example_bn": "সে শোকে অভিভূত হয়ে পড়ল।" },
+        { "id": 1512, "phrase": "Owe to", "bangla_meaning": "ঋণী থাকা", "example_en": "I owe my success to him.", "example_bn": "আমার সাফল্যের জন্য আমি তার কাছে ঋণী।" }
+      ]
+    },
+    "P": {
+      "title": "P Series",
+      "items": [
+        { "id": 1601, "phrase": "Part from", "bangla_meaning": "বিদায় নেওয়া (ব্যক্তি)", "example_en": "He parted from his friends.", "example_bn": "সে তার বন্ধুদের কাছ থেকে বিদায় নিল।" },
+        { "id": 1602, "phrase": "Part with", "bangla_meaning": "ত্যাগ করা (বস্তু)", "example_en": "I cannot part with my book.", "example_bn": "আমি আমার বইটি ছাড়তে পারব না।" },
+        { "id": 1603, "phrase": "Pass for", "bangla_meaning": "গণ্য হওয়া", "example_en": "He passes for a scholar.", "example_bn": "সে পণ্ডিত হিসেবে গণ্য হয়।" },
+        { "id": 1604, "phrase": "Patient of", "bangla_meaning": "সহিষ্ণু", "example_en": "He is patient of sufferings.", "example_bn": "সে কষ্ট সহ্য করতে পারে।" },
+        { "id": 1605, "phrase": "Play on", "bangla_meaning": "বাজানো", "example_en": "He played on a flute.", "example_bn": "সে বাঁশি বাজাল।" },
+        { "id": 1606, "phrase": "Pleased with", "bangla_meaning": "সন্তুষ্ট", "example_en": "I am pleased with you.", "example_bn": "আমি তোমার ওপর খুশি।" },
+        { "id": 1607, "phrase": "Plunge into", "bangla_meaning": "ঝাঁপ দেওয়া", "example_en": "He plunged into the river.", "example_bn": "সে নদীতে ঝাঁপ দিল।" },
+        { "id": 1608, "phrase": "Polite to", "bangla_meaning": "ভদ্র", "example_en": "Be polite to all.", "example_bn": "সবার প্রতি ভদ্র হও।" },
+        { "id": 1609, "phrase": "Popular with", "bangla_meaning": "জনপ্রিয়", "example_en": "He is popular with all.", "example_bn": "সে সবার কাছে জনপ্রিয়।" },
+        { "id": 1610, "phrase": "Pray to...for", "bangla_meaning": "প্রার্থনা করা", "example_en": "Pray to God for mercy.", "example_bn": "করুণার জন্য ঈশ্বরের কাছে প্রার্থনা করো।" },
+        { "id": 1611, "phrase": "Prefer to", "bangla_meaning": "অধিক পছন্দ করা", "example_en": "I prefer death to dishonor.", "example_bn": "আমি অপমানের চেয়ে মৃত্যু শ্রেয় মনে করি।" },
+        { "id": 1612, "phrase": "Prepare for", "bangla_meaning": "প্রস্তুত হওয়া", "example_en": "Prepare for the exam.", "example_bn": "পরীক্ষার জন্য প্রস্তুত হও।" },
+        { "id": 1613, "phrase": "Preside over", "bangla_meaning": "সভাপতিত্ব করা", "example_en": "He presided over the meeting.", "example_bn": "সে সভায় সভাপতিত্ব করল।" },
+        { "id": 1614, "phrase": "Pretend to", "bangla_meaning": "ভান করা", "example_en": "He pretended to be ill.", "example_bn": "সে অসুস্থ হওয়ার ভান করল।" },
+        { "id": 1615, "phrase": "Prevent from", "bangla_meaning": "বাধা দেওয়া", "example_en": "He prevented me from going.", "example_bn": "সে আমাকে যেতে বাধা দিল।" },
+        { "id": 1616, "phrase": "Pride in", "bangla_meaning": "গর্ব", "example_en": "He takes pride in his wealth.", "example_bn": "সে তার সম্পদ নিয়ে গর্ব করে।" },
+        { "id": 1617, "phrase": "Prior to", "bangla_meaning": "পূর্বে", "example_en": "Prior to this, he was a clerk.", "example_bn": "এর আগে তিনি করণিক ছিলেন।" },
+        { "id": 1618, "phrase": "Prohibit from", "bangla_meaning": "নিষেধ করা", "example_en": "I prohibited him from going.", "example_bn": "আমি তাকে যেতে নিষেধ করলাম।" },
+        { "id": 1619, "phrase": "Proud of", "bangla_meaning": "গর্বিত", "example_en": "He is proud of his son.", "example_bn": "সে তার ছেলেকে নিয়ে গর্বিত।" },
+        { "id": 1620, "phrase": "Provide with", "bangla_meaning": "যোগান দেওয়া", "example_en": "He provided me with money.", "example_bn": "সে আমাকে টাকা দিয়ে সাহায্য করল।" },
+        { "id": 1621, "phrase": "Punish for", "bangla_meaning": "শাস্তি দেওয়া", "example_en": "He was punished for his fault.", "example_bn": "দোষের জন্য তাকে শাস্তি দেওয়া হলো।" }
+      ]
+    },
+    "Q": {
+      "title": "Q Series",
+      "items": [
+        { "id": 1701, "phrase": "Qualified for", "bangla_meaning": "যোগ্য", "example_en": "He is qualified for the post.", "example_bn": "সে পদটির জন্য যোগ্য।" },
+        { "id": 1702, "phrase": "Quarrel with", "bangla_meaning": "ঝগড়া করা (ব্যক্তি)", "example_en": "Don't quarrel with him.", "example_bn": "তার সাথে ঝগড়া করো না।" },
+        { "id": 1703, "phrase": "Quarrel over", "bangla_meaning": "ঝগড়া করা (বস্তু)", "example_en": "They quarreled over the land.", "example_bn": "জমিটি নিয়ে তারা ঝগড়া করল।" },
+        { "id": 1704, "phrase": "Quick at", "bangla_meaning": "চটপটে", "example_en": "He is quick at figures.", "example_bn": "সে অংকে চটপটে।" }
+      ]
+    },
+    "R": {
+      "title": "R Series",
+      "items": [
+        { "id": 1801, "phrase": "Ready for", "bangla_meaning": "প্রস্তুত", "example_en": "He is ready for the work.", "example_bn": "সে কাজের জন্য প্রস্তুত।" },
+        { "id": 1802, "phrase": "Rebel against", "bangla_meaning": "বিদ্রোহ করা", "example_en": "They rebelled against the king.", "example_bn": "তারা রাজার বিরুদ্ধে বিদ্রোহ করল।" },
+        { "id": 1803, "phrase": "Recover from", "bangla_meaning": "সেরে ওঠা", "example_en": "He has recovered from fever.", "example_bn": "সে জ্বর থেকে সেরে উঠেছে।" },
+        { "id": 1804, "phrase": "Refer to", "bangla_meaning": "উল্লেখ করা / পাঠানো", "example_en": "Don't refer to this matter.", "example_bn": "এ বিষয়টি উল্লেখ করো না।" },
+        { "id": 1805, "phrase": "Refrain from", "bangla_meaning": "বিরত থাকা", "example_en": "Refrain from bad habits.", "example_bn": "খারাপ অভ্যাস থেকে বিরত থাকো।" },
+        { "id": 1806, "phrase": "Regard for", "bangla_meaning": "সম্মান", "example_en": "I have regard for him.", "example_bn": "তার প্রতি আমার সম্মান আছে।" },
+        { "id": 1807, "phrase": "Regret for", "bangla_meaning": "অনুশোচনা", "example_en": "He has no regret for his sin.", "example_bn": "পাপের জন্য তার অনুশোচনা নেই।" },
+        { "id": 1808, "phrase": "Rely on", "bangla_meaning": "নির্ভর করা", "example_en": "You can rely on him.", "example_bn": "তুমি তার ওপর নির্ভর করতে পারো।" },
+        { "id": 1809, "phrase": "Remedy for", "bangla_meaning": "প্রতিকার", "example_en": "There is no remedy for it.", "example_bn": "এর কোনো প্রতিকার নেই।" },
+        { "id": 1810, "phrase": "Remind of", "bangla_meaning": "মনে করিয়ে দেওয়া", "example_en": "Remind me of it.", "example_bn": "আমাকে এটা মনে করিয়ে দিও।" },
+        { "id": 1811, "phrase": "Repent of", "bangla_meaning": "অনুতপ্ত হওয়া", "example_en": "He repented of his folly.", "example_bn": "সে তার বোকামির জন্য অনুতপ্ত হলো।" },
+        { "id": 1812, "phrase": "Reputation for", "bangla_meaning": "খ্যাতি", "example_en": "He has a reputation for honesty.", "example_bn": "সততার জন্য তার সুনাম আছে।" },
+        { "id": 1813, "phrase": "Respect for", "bangla_meaning": "শ্রদ্ধা", "example_en": "I have great respect for him.", "example_bn": "তার প্রতি আমার গভীর শ্রদ্ধা আছে।" },
+        { "id": 1814, "phrase": "Respond to", "bangla_meaning": "সাড়া দেওয়া", "example_en": "He responded to my call.", "example_bn": "সে আমার ডাকে সাড়া দিল।" },
+        { "id": 1815, "phrase": "Responsible to", "bangla_meaning": "দায়ী (ব্যক্তি)", "example_en": "He is responsible to the boss.", "example_bn": "সে বসের কাছে দায়ী।" },
+        { "id": 1816, "phrase": "Responsible for", "bangla_meaning": "দায়ী (কাজ)", "example_en": "You are responsible for this.", "example_bn": "এর জন্য তুমি দায়ী।" },
+        { "id": 1817, "phrase": "Rest with", "bangla_meaning": "নির্ভর করা", "example_en": "The decision rests with you.", "example_bn": "সিদ্ধান্তটি তোমার ওপর নির্ভর করছে।" },
+        { "id": 1818, "phrase": "Retire from", "bangla_meaning": "অবসর নেওয়া", "example_en": "He retired from service.", "example_bn": "সে চাকরি থেকে অবসর নিল।" },
+        { "id": 1819, "phrase": "Rich in", "bangla_meaning": "সমৃদ্ধ", "example_en": "The food is rich in vitamins.", "example_bn": "খাবারটি ভিটামিনে ভরপুর।" },
+        { "id": 1820, "phrase": "Rob of", "bangla_meaning": "কেড়ে নেওয়া", "example_en": "He robbed me of my all.", "example_bn": "সে আমার সর্বস্ব কেড়ে নিল।" },
+        { "id": 1821, "phrase": "Rule over", "bangla_meaning": "শাসন করা", "example_en": "The British ruled over India.", "example_bn": "ব্রিটিশরা ভারত শাসন করত।" },
+        { "id": 1822, "phrase": "Run after", "bangla_meaning": "পিছনে ছোটা", "example_en": "Don't run after money.", "example_bn": "টাকার পেছনে ছুটো না।" },
+        { "id": 1823, "phrase": "Run over", "bangla_meaning": "চাপা পড়া", "example_en": "The dog was run over by a car.", "example_bn": "কুকুরটি গাড়ি চাপা পড়ল।" }
+      ]
+    },
+    "S": {
+      "title": "S Series",
+      "items": [
+        { "id": 1901, "phrase": "Sacred to", "bangla_meaning": "পবিত্র", "example_en": "This place is sacred to us.", "example_bn": "এই জায়গাটি আমাদের কাছে পবিত্র।" },
+        { "id": 1902, "phrase": "Satisfied with", "bangla_meaning": "সন্তুষ্ট", "example_en": "I am satisfied with his work.", "example_bn": "আমি তার কাজে সন্তুষ্ট।" },
+        { "id": 1903, "phrase": "Search for", "bangla_meaning": "অনুসন্ধান", "example_en": "He is in search for a job.", "example_bn": "সে চাকরির সন্ধানে আছে।" },
+        { "id": 1904, "phrase": "Send for", "bangla_meaning": "ডেকে পাঠানো", "example_en": "Send for a doctor.", "example_bn": "ডাক্তার ডেকে পাঠাও।" },
+        { "id": 1905, "phrase": "Senior to", "bangla_meaning": "বড় (পদ/বয়স)", "example_en": "He is senior to me.", "example_bn": "সে আমার সিনিয়র।" },
+        { "id": 1906, "phrase": "Sentence to", "bangla_meaning": "দণ্ড দেওয়া", "example_en": "He was sentenced to death.", "example_bn": "তাকে মৃত্যুদণ্ড দেওয়া হলো।" },
+        { "id": 1907, "phrase": "Shocked at", "bangla_meaning": "মর্মান্তিক আঘাত পাওয়া", "example_en": "I was shocked at the news.", "example_bn": "খবরটি শুনে আমি শক খেলাম।" },
+        { "id": 1908, "phrase": "Short of", "bangla_meaning": "অপ্রতুল", "example_en": "I am short of money.", "example_bn": "আমার টাকার টান পড়েছে।" },
+        { "id": 1909, "phrase": "Sick of", "bangla_meaning": "ক্লান্ত / বিরক্ত", "example_en": "I am sick of this idle life.", "example_bn": "এই অলস জীবনে আমি বিরক্ত।" },
+        { "id": 1910, "phrase": "Similar to", "bangla_meaning": "সাদৃশ্যপূর্ণ", "example_en": "This is similar to that.", "example_bn": "এটি ওটির মতোই।" },
+        { "id": 1911, "phrase": "Slow at", "bangla_meaning": "ধীর", "example_en": "He is slow at accounts.", "example_bn": "সে হিসেবে ধীর।" },
+        { "id": 1912, "phrase": "Smell of", "bangla_meaning": "গন্ধ থাকা", "example_en": "It smells of wine.", "example_bn": "এতে মদের গন্ধ আছে।" },
+        { "id": 1913, "phrase": "Smile at", "bangla_meaning": "বিদ্রূপ করা", "example_en": "Don't smile at the poor.", "example_bn": "গরিবদের দেখে বিদ্রূপ করো না।" },
+        { "id": 1914, "phrase": "Sorry for", "bangla_meaning": "দুঃখিত", "example_en": "I am sorry for my mistake.", "example_bn": "আমার ভুলের জন্য আমি দুঃখিত।" },
+        { "id": 1915, "phrase": "Stick to", "bangla_meaning": "লেগে থাকা", "example_en": "Stick to your word.", "example_bn": "তোমার কথায় অনড় থাকো।" },
+        { "id": 1916, "phrase": "Subject to", "bangla_meaning": "অধীন", "example_en": "We are subject to death.", "example_bn": "আমরা মৃত্যুর অধীন।" },
+        { "id": 1917, "phrase": "Succeed in", "bangla_meaning": "সফল হওয়া", "example_en": "He succeeded in life.", "example_bn": "সে জীবনে সফল হলো।" },
+        { "id": 1918, "phrase": "Suffer from", "bangla_meaning": "ভোগা", "example_en": "He suffers from fever.", "example_bn": "সে জ্বরে ভুগছে।" },
+        { "id": 1919, "phrase": "Suitable for", "bangla_meaning": "উপযুক্ত", "example_en": "The house is suitable for living.", "example_bn": "বাড়িটি বসবাসের উপযুক্ত।" },
+        { "id": 1920, "phrase": "Supply with", "bangla_meaning": "সরবরাহ করা", "example_en": "Supply him with food.", "example_bn": "তাকে খাদ্য সরবরাহ করো।" },
+        { "id": 1921, "phrase": "Sure of", "bangla_meaning": "নিশ্চিত", "example_en": "I am sure of success.", "example_bn": "আমি সাফল্যের ব্যাপারে নিশ্চিত।" },
+        { "id": 1922, "phrase": "Surprised at", "bangla_meaning": "বিস্মিত", "example_en": "I was surprised at his conduct.", "example_bn": "আমি তার আচরণে বিস্মিত হলাম।" },
+        { "id": 1923, "phrase": "Suspect of", "bangla_meaning": "সন্দেহ করা", "example_en": "I suspect him of theft.", "example_bn": "আমি তাকে চুরির জন্য সন্দেহ করি।" },
+        { "id": 1924, "phrase": "Sympathy for", "bangla_meaning": "সহানুভূতি", "example_en": "I have no sympathy for him.", "example_bn": "তার জন্য আমার কোনো সহানুভূতি নেই।" }
+      ]
+    },
+    "T": {
+      "title": "T Series",
+      "items": [
+        { "id": 2001, "phrase": "Take after", "bangla_meaning": "সাদৃশ্য থাকা", "example_en": "She takes after her mother.", "example_bn": "সে দেখতে অবিকল তার মায়ের মতো।" },
+        { "id": 2002, "phrase": "Talk to/with", "bangla_meaning": "কথা বলা", "example_en": "Talk to him.", "example_bn": "তার সাথে কথা বলো।" },
+        { "id": 2003, "phrase": "Taste for", "bangla_meaning": "রুচি", "example_en": "He has a taste for music.", "example_bn": "গানে তার রুচি আছে।" },
+        { "id": 2004, "phrase": "Tell upon", "bangla_meaning": "ক্ষতি করা", "example_en": "Smoking tells upon health.", "example_bn": "ধূমপান স্বাস্থ্যের ক্ষতি করে।" },
+        { "id": 2005, "phrase": "Thankful to", "bangla_meaning": "কৃতজ্ঞ", "example_en": "I am thankful to you.", "example_bn": "আমি তোমার প্রতি কৃতজ্ঞ।" },
+        { "id": 2006, "phrase": "Think of", "bangla_meaning": "ভাবা", "example_en": "Think of the future.", "example_bn": "ভবিষ্যতের কথা ভাবো।" },
+        { "id": 2007, "phrase": "Thirst for", "bangla_meaning": "তৃষ্ণা", "example_en": "He has a thirst for knowledge.", "example_bn": "তার জ্ঞানের তৃষ্ণা আছে।" },
+        { "id": 2008, "phrase": "Tired of", "bangla_meaning": "ক্লান্ত", "example_en": "I am tired of waiting.", "example_bn": "আমি অপেক্ষা করতে করতে ক্লান্ত।" },
+        { "id": 2009, "phrase": "Tolerant of", "bangla_meaning": "সহিষ্ণু", "example_en": "We should be tolerant of others' views.", "example_bn": "অন্যের মতের প্রতি আমাদের সহনশীল হওয়া উচিত।" },
+        { "id": 2010, "phrase": "Tremble with", "bangla_meaning": "কাঁপা", "example_en": "He trembled with fear.", "example_bn": "সে ভয়ে কাঁপতে লাগল।" },
+        { "id": 2011, "phrase": "True to", "bangla_meaning": "বিশ্বস্ত / সত্য", "example_en": "He is true to his word.", "example_bn": "সে তার কথায় সত্য।" },
+        { "id": 2012, "phrase": "Trust in", "bangla_meaning": "বিশ্বাস করা", "example_en": "Trust in God.", "example_bn": "ঈশ্বরে বিশ্বাস রাখো।" }
+      ]
+    },
+    "U": {
+      "title": "U Series",
+      "items": [
+        { "id": 2101, "phrase": "Unfit for", "bangla_meaning": "অযোগ্য", "example_en": "He is unfit for the job.", "example_bn": "সে চাকরির অযোগ্য।" },
+        { "id": 2102, "phrase": "Unite with", "bangla_meaning": "মিলিত হওয়া", "example_en": "The river unites with the sea.", "example_bn": "নদীটি সাগরে গিয়ে মিশেছে।" },
+        { "id": 2103, "phrase": "Urge upon", "bangla_meaning": "জোর করা", "example_en": "I urged upon him to go.", "example_bn": "আমি তাকে যাওয়ার জন্য পীড়াপীড়ি করলাম।" },
+        { "id": 2104, "phrase": "Used to", "bangla_meaning": "অভ্যস্ত", "example_en": "I am used to hard work.", "example_bn": "আমি কঠোর পরিশ্রমে অভ্যস্ত।" },
+        { "id": 2105, "phrase": "Useful to/for", "bangla_meaning": "উপকারী", "example_en": "Trees are useful to us.", "example_bn": "গাছ আমাদের জন্য উপকারী।" }
+      ]
+    },
+    "V": {
+      "title": "V Series",
+      "items": [
+        { "id": 2201, "phrase": "Vain of", "bangla_meaning": "অহংকারী", "example_en": "She is vain of her dress.", "example_bn": "সে তার পোশাক নিয়ে অহংকারী।" },
+        { "id": 2202, "phrase": "Vary from", "bangla_meaning": "আলাদা হওয়া", "example_en": "Stars vary from one another.", "example_bn": "তারারা একে অপরের থেকে আলাদা।" },
+        { "id": 2203, "phrase": "Vexed with", "bangla_meaning": "বিরক্ত", "example_en": "I am vexed with him.", "example_bn": "আমি তার ওপর বিরক্ত।" },
+        { "id": 2204, "phrase": "Victim of", "bangla_meaning": "শিকার", "example_en": "He is a victim of oppression.", "example_bn": "সে অত্যাচারের শিকার।" },
+        { "id": 2205, "phrase": "Void of", "bangla_meaning": "বর্জিত / শূন্য", "example_en": "He is void of common sense.", "example_bn": "তার কাণ্ডজ্ঞান নেই।" },
+        { "id": 2206, "phrase": "Vote for", "bangla_meaning": "ভোট দেওয়া", "example_en": "Vote for the best candidate.", "example_bn": "সেরা প্রার্থীকে ভোট দাও।" }
+      ]
+    },
+    "W": {
+      "title": "W Series",
+      "items": [
+        { "id": 2301, "phrase": "Wait for", "bangla_meaning": "অপেক্ষা করা", "example_en": "Wait for me.", "example_bn": "আমার জন্য অপেক্ষা করো।" },
+        { "id": 2302, "phrase": "Warn of", "bangla_meaning": "সতর্ক করা", "example_en": "He warned me of the danger.", "example_bn": "সে আমাকে বিপদের ব্যাপারে সতর্ক করল।" },
+        { "id": 2303, "phrase": "Weak in", "bangla_meaning": "দুর্বল", "example_en": "He is weak in math.", "example_bn": "সে অংকে দুর্বল।" },
+        { "id": 2304, "phrase": "Weary of", "bangla_meaning": "ক্লান্ত", "example_en": "I am weary of life.", "example_bn": "আমি জীবন নিয়ে ক্লান্ত।" },
+        { "id": 2305, "phrase": "Weep for", "bangla_meaning": "কাঁদা", "example_en": "She wept for her lost child.", "example_bn": "সে তার হারানো সন্তানের জন্য কাঁদল।" },
+        { "id": 2306, "phrase": "Wish for", "bangla_meaning": "ইচ্ছা করা", "example_en": "I wish for your success.", "example_bn": "আমি তোমার সাফল্য কামনা করি।" },
+        { "id": 2307, "phrase": "Wonder at", "bangla_meaning": "অবাক হওয়া", "example_en": "I wonder at his ignorance.", "example_bn": "আমি তার অজ্ঞতা দেখে অবাক হই।" },
+        { "id": 2308, "phrase": "Worthy of", "bangla_meaning": "যোগ্য", "example_en": "He is worthy of praise.", "example_bn": "সে প্রশংসার যোগ্য।" },
+        { "id": 2309, "phrase": "Write to", "bangla_meaning": "লেখা", "example_en": "Write a letter to him.", "example_bn": "তাকে একটি চিঠি লেখো।" },
+        { "id": 2310, "phrase": "Warn against", "bangla_meaning": "বিরুদ্ধে সতর্ক করা", "example_en": "The doctor warned him against smoking.", "example_bn": "ডাক্তার তাকে ধূমপানের বিরুদ্ধে সতর্ক করলেন।" },
+
+{ "id": 2311, "phrase": "Worried about", "bangla_meaning": "উদ্বিগ্ন", "example_en": "She is worried about her future.", "example_bn": "সে তার ভবিষ্যৎ নিয়ে উদ্বিগ্ন।" },
+{ "id": 2312, "phrase": "Willing to", "bangla_meaning": "ইচ্ছুক", "example_en": "He is willing to help us.", "example_bn": "সে আমাদের সাহায্য করতে ইচ্ছুক।" },
+{ "id": 2313, "phrase": "Work for", "bangla_meaning": "কারো জন্য কাজ করা", "example_en": "He works for a software company.", "example_bn": "সে একটি সফটওয়্যার কোম্পানির জন্য কাজ করে।" },
+{ "id": 2314, "phrase": "Work on", "bangla_meaning": "কোনো কিছুর উপর কাজ করা", "example_en": "She is working on a new project.", "example_bn": "সে একটি নতুন প্রজেক্টের উপর কাজ করছে।" },
+{ "id": 2315, "phrase": "Work with", "bangla_meaning": "একসাথে কাজ করা", "example_en": "I like to work with honest people.", "example_bn": "আমি সৎ মানুষের সাথে কাজ করতে পছন্দ করি।" },
+{ "id": 2316, "phrase": "Wait for", "bangla_meaning": "অপেক্ষা করা", "example_en": "Please wait for the bus.", "example_bn": "দয়া করে বাসের জন্য অপেক্ষা করো।" },
+{ "id": 2317, "phrase": "Weak at", "bangla_meaning": "কোনো নির্দিষ্ট বিষয়ে দুর্বল", "example_en": "He is weak at grammar.", "example_bn": "সে ব্যাকরণে দুর্বল।" },
+{ "id": 2318, "phrase": "Wise in", "bangla_meaning": "জ্ঞানী", "example_en": "He is wise in practical matters.", "example_bn": "সে ব্যবহারিক বিষয়ে জ্ঞানী।" },
+{ "id": 2319, "phrase": "Wish to", "bangla_meaning": "করতে ইচ্ছা করা", "example_en": "I wish to meet you.", "example_bn": "আমি তোমার সাথে দেখা করতে চাই।" }
+
+      ]
+    },
+    "Y": {
+      "title": "Y Series",
+      "items": [
+        { "id": 2401, "phrase": "Yearn for", "bangla_meaning": "গভীরভাবে চাওয়া", "example_en": "He yearns for freedom.", "example_bn": "সে স্বাধীনতার জন্য ব্যাকুল।" },
+        { "id": 2402, "phrase": "Yield to", "bangla_meaning": "বশ মানা / নতি স্বীকার করা", "example_en": "He yielded to his fate.", "example_bn": "সে তার ভাগ্যের কাছে নতি স্বীকার করল।" }
+      ]
+    },
+    "Z": {
+      "title": "Z Series",
+      "items": [
+        { 
+  "id": 2601,
+  "phrase": "Zeal for",
+  "bangla_meaning": "কোনো কিছুর প্রতি প্রবল আগ্রহ",
+  "example_en": "He has a zeal for knowledge.",
+  "example_bn": "জ্ঞান অর্জনের প্রতি তার প্রবল আগ্রহ আছে।"
+},
+
+{ 
+  "id": 2602,
+  "phrase": "Zest for",
+  "bangla_meaning": "উদ্যম / প্রাণশক্তি",
+  "example_en": "She has a zest for life.",
+  "example_bn": "জীবনের প্রতি তার প্রচুর উদ্যম আছে।"
+},
+
+{ 
+  "id": 2603,
+  "phrase": "Zero tolerance for",
+  "bangla_meaning": "কোনো কিছুর প্রতি একেবারেই সহনশীল না হওয়া",
+  "example_en": "The company has zero tolerance for corruption.",
+  "example_bn": "দুর্নীতির ব্যাপারে কোম্পানিটির কোনো সহনশীলতা নেই।"
+},
+
+{ 
+  "id": 2604,
+  "phrase": "Zealous about",
+  "bangla_meaning": "কিছু করা নিয়ে খুব উৎসাহী",
+  "example_en": "He is zealous about learning new skills.",
+  "example_bn": "নতুন দক্ষতা শেখা নিয়ে সে খুব উৎসাহী।"
+},
+
+{ 
+  "id": 2605,
+  "phrase": "Zealous for",
+  "bangla_meaning": "কোনো লক্ষ্য বা পরিবর্তনের জন্য অত্যন্ত আগ্রহী",
+  "example_en": "They are zealous for change.",
+  "example_bn": "তারা পরিবর্তনের জন্য অত্যন্ত আগ্রহী।"
+}
+
+      ]
+    }
+  }
+}
